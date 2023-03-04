@@ -8,7 +8,11 @@
 layout: home
 ---
  <center>
+<<<<<<< HEAD
    <div style="float:left;margin-left:150px;margin-top:10px" height="150px" width="70%">
+=======
+   <div style="float:left;margin-left:150px;margin-top:10px" height="150px" width="95%">
+>>>>>>> 54ec347 (update index.md to resume)
      <h1>朱瑞旗</h1>
      <div>
          <span>
@@ -39,6 +43,11 @@ layout: home
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 54ec347 (update index.md to resume)
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，2002年出生，大三在读                                                                                                                  
