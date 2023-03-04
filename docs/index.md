@@ -8,7 +8,7 @@
 layout: home
 ---
  <center>
-   <div style="float:left;margin-left:150px;margin-top:10px" height="150px" width="70%">
+   <div style="float:left;margin-left:150px;margin-top:10px" height="150px" width="95%">
      <h1>朱瑞旗</h1>
      <div>
          <span>
@@ -31,6 +31,8 @@ layout: home
      <img src="assets/wfs777.JPG" width="80px"
    </div>
  </center>
+
+
 
 
 

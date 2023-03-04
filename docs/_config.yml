@@ -1,11 +1,9 @@
-title: Your awesome title
+title: Welcome to wfs777's website
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: wfs777
+  email: rqzhu777@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nothing need to say
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: wfs777
+    github:  wfs777
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
